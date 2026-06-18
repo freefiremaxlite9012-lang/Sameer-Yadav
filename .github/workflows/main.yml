@@ -17,7 +17,7 @@ jobs:
           java-version: 17
 
       - name: Build APK
-        run: bash gradlew assembleDebug -x validateSigningDebug
+        run: bash gradlew assembleDebug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
