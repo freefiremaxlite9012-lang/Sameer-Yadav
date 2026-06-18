@@ -1,0 +1,6 @@
+{
+  "name": "Neon Games",
+  "description": "Play Ludo (AI context with diff), Chess (2 players), and Cricket with local game persistence in a dark neon aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
